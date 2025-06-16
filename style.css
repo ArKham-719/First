@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #4f55a3;
+}
+
+.a {
+  height: 30vh;
+  width: 35vw;
+  background-color: #ddc6a9;
+  position: absolute;
+  top: 550px;
+  left: 650px;
+  border-radius: 50px;
+}
+
+.b {
+  background-color: #ddc6a9;
+    width: 90px;
+    height: 236px;
+    position: absolute;
+    top: 346px;
+    left: 583px;
+    border: 14px solid #4f55a3;
+    border-radius:50px;
+}
+.c {
+  background-color: #ddc6a9;
+    width: 90px;
+    height: 236px;
+    position: absolute;
+    top: 346px;
+    right: 543px;
+    border: 14px solid #4f55a3;
+    border-radius:50px;
+}
